@@ -1,7 +1,10 @@
 Pusher2ascii
 ============
 
-![Logo](https://github.com/pusher/pusher-to-ascii/raw/master/LOGO.svg)
+Just having fun with our logo
+
+![Logo](https://raw.github.com/pusher/pusher-to-ascii/master/LOGO.svg)
+
 Compilation
 -----------
 
