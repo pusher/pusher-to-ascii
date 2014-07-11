@@ -1,9 +1,9 @@
-Pusher2ascii
-============
+Pusher to ASCII
+===============
 
 Just having fun with our logo
 
-![Logo](https://raw.github.com/pusher/pusher-to-ascii/master/LOGO.svg)
+![Logo](https://pusher.github.io/pusher-to-ascii/LOGO.svg)
 
 Compilation
 -----------
