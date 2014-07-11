@@ -1,8 +1,7 @@
 Pusher2ascii
 ============
 
-![Logo](LOGO.svg)
-
+![Logo](https://github.com/pusher/pusher-to-ascii/raw/master/LOGO.svg)
 Compilation
 -----------
 
